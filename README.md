@@ -11,7 +11,8 @@ Prerequisites
 2. MySQL installed and running
 
 clone the project using this command
-         `git clone https://github.com/kartikdhumal/react-crud-all-databases.git`
+         
+         ```git clone https://github.com/kartikdhumal/react-crud-all-databases.git```
 
 Navigate to the project directory:
 
