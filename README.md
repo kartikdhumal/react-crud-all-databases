@@ -7,9 +7,8 @@ Four different databases are utilized: MongoDB, MySQL, JSON Server, and Firebase
 The project provides step-by-step instructions for setting up and running CRUD operations for each database.
 
 Prerequisites
-
-    Node.js installed on your machine
-    MySQL installed and running
+1. Node.js installed on your machine
+2. MySQL installed and running
 
 clone the project using this command
 git clone https://github.com/kartikdhumal/react-crud-all-databases.git
@@ -32,18 +31,10 @@ Run the MongoDB server:
 
     nodemon ./server.js
 
-Run the JSON server
-
-    Start the JSON Server:
+Run the JSON Server:
 
     json-server --watch db.json --port 3001
 
 Run MySQL
 
     Import the crudall.sql file located in the server folder into your MySQL database.
-
-    Start the React development server:
-
-    arduino
-
-    npm run dev
